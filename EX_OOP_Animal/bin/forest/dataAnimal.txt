@@ -1,0 +1,4 @@
+1DA1	Lion		Tiger		12		3000
+HXYQ	Fox		    Fox 1	11		1000
+3X1Q	Fox		    Fox 2	13		2000
+DDA9	Elephant	Voi		19		7000
